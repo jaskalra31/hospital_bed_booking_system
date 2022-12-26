@@ -1,11 +1,8 @@
-install flask
-install mysqlclient
-install flask sql alchemy
-install flask login
-install flask mail
-
-
-add your admin credentials in config.json andd gmail id and password
-import sql file in the xamp phpmyadmin
-
-for above procedure installation refer my youtube video i have added the installation video in same playlist
+click==8.1.3
+colorama==0.4.6
+Flask==2.2.2
+gunicorn==20.1.0
+itsdangerous==2.1.2
+Jinja2==3.1.2
+MarkupSafe==2.1.1
+Werkzeug==2.2.2
